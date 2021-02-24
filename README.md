@@ -15,3 +15,5 @@ I aimed to make a very simplistic yet functional page, using blacks, whites and 
 
 **Video demonstration:** <br/>
 ![Alt Text](https://media.giphy.com/media/6cDAmZb9jFUcsbKXPr/giphy.gif)
+
+<br/> Thanks for taking a look!
